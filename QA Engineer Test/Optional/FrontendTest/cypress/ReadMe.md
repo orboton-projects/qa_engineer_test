@@ -7,3 +7,5 @@
 - Write an E2E test in the sample_test.spec.js file to buy any item from https://www.saucedemo.com/.
 
 #### Feel free to update the project in any way you see fit.
+
+### Note: Cypress version 10.0.0 no longer supports cypress.json. Please use "cypress.config.js"
